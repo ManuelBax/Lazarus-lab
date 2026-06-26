@@ -2,8 +2,6 @@
 
 A collection of Free Pascal / Lazarus examples and reusable projects.
 
-## Projects
-
 ## Requirements
 
 - Lazarus 4.x
